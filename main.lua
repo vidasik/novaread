@@ -1,3 +1,6 @@
+#!/usr/bin/env lua
+
+
 print("\27[1;36m            ___")
 print("  ___ _  __/ _/")
 print(" / _ \\ |/ / _/ ")
