@@ -1,7 +1,7 @@
 ﻿# Novaread
 Novaread (ранее nvfsys) - легкий аналог fastfetch, основанный на базе lua на одном файле.
 ## Превью
-![Демонстрация](https://github.com/vidasik/novaread/blob/main/demo.png?raw=true)
+![Демонстрация](https://github.com/vidasik/novaread/blob/main/demo-update.png?raw=true)
 Имеет только 4 модуля: Операционка, хост, оболочка и оконник. Вместо логотипа вашего дистрибутива красуется логотип novafetch (сокр. nvf).
 ## Установка
 Установка Lua:
