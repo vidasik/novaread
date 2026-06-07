@@ -1,4 +1,5 @@
 ﻿# Novaread
+[![Made for Linux](https://img.shields.io/badge/Made%20for-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/)
 Novaread (ранее nvfsys) - легкий аналог fastfetch, основанный на базе lua на одном файле.
 ## Превью
 ![Демонстрация](https://github.com/vidasik/novaread/blob/main/demo-update.png?raw=true)
